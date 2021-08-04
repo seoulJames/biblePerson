@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="seoulJames">
+    <meta name="keywords" content="성경 속 나와 닮은 인물 찾기">
+    <meta name="description" content="성경 속 나와 닮은 인물 찾기">
+
+    <!-- sns share 추가 -->
+    <meta property="og:url" content="">
+    <meta property="og:title" content="성경 속 나와 닮은 인물 찾기">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="images/flower-icon.png">
+    <meta property="og:description" content="성경 속 나와 닮은 인물 찾기">
+
+    <!-- TO DO: favicon 추가 -->
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="./css/reset.css">
+    <link rel="stylesheet" type="text/css" href="./css/seoulJames.css">
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <link rel="stylesheet" href="./css/animation.css">
+    <script src="https://developers.kakao.com/sdk/js/kakao.js"></script>
+    <script>
+        Kakao.init('73029bcb5fffe3ed20c88373457a65f5');
+        Kakao.isInitialized();
+    </script>
+    <title>성경 속 나와 닮은 인물 찾기</title>
+</head>
+<body>
+    <div class="container">
+        <audio class="bgm"><source src="audio/bgm.mp3" type="audio/mp3"></audio>
+        <section id="main" class="mx-auto my-5 pb-5 pt-5 px-3">
+            <img src="images/flower-icon.png" class="flower-icon"/><br/>
+            <div class="title">
+                <span>성경</span> 속 <span>나</span>와<br/>
+                닮은 <span>인물</span> 찾기
+            </div><br/><br/>
+            <p class="version">ver. 1.0.0</p>
+            <button type="button" onclick="js:begin()">시작하기</button>
+            <br/>
+            <div>※ 실감나는 체험을 위해<br/>이어폰 착용을 권장합니다</div>
+        </section>
+        <section id="qna">
+            <div class="backBox"><!-- 뒤로가기 --></div>
+            <div class="contentBox"><!-- 콘텐츠 --></div>
+            <div class="qBox"><!-- 질문--> </div>
+            <div class="answerBox"><!-- 답변 --></div>
+            <div class="bgmBox"><!-- 배경음 --></div>
+        </section>
+        <section id="result">
+            <div class="resultname"><!-- 결과명 --></div>
+            <div id="resultImg"><!-- 결과 이미지 --></div>
+            <div class="resultDesc"><!-- 결과설명 --></div>
+            <div class="combi"><!-- 콤비 --></div>
+            <div class="bible"><!-- 참고성구 --></div>
+            <button type="button" class="continue-btn" onclick="js:goToWordSquare()">더 알아보고 싶다면?</button>
+            <button type="button" class="continue-btn" onclick="js:goToHome()">테스트 다시하기</button>
+            <p class="share">친구에게 공유하기</p>
+            <button type="button" class="share-btn" onclick="js:shareUrl()">링크 복사</button>
+            <div class="sns-btn-wrap">
+                <img src="images/shareImg/kakao.png" class="sns-btn" onclick="js:shareKakao()"/>
+                <img src="images/shareImg/facebook.png" class="sns-btn" onclick="js:shareFacebook()"/>
+                <img src="images/shareImg/twitter.png" class="sns-btn" onclick="js:shareTwitter()"/>
+                <img src="images/shareImg/naver.png" class="sns-btn" onclick="js:shareNaverBlog()"/>
+            </div>
+        </section>
+        <script src="./js/data.js" charset="utf-8"></script>
+        <script type="text/javascript" src="./js/seoulJames.js"></script>
+        <script src="./js/share.js" charset="uft-8"></script>
+    </div>
+</body>
+</html>
