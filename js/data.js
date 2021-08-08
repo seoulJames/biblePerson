@@ -62,7 +62,7 @@
         a: [
             { cssClass: 'continue-btn', answer: '천천히 눈을 떠본다', type: [] }
         ],
-        b: '<audio controls autoplay><source src="audio/crowd.mp3" type="audio/mp3"></audio>',
+        b: '<audio autoplay><source src="audio/crowd.mp3" type="audio/mp3"></audio>',
     },
     {
         c: '<div class="img-box-long">'+

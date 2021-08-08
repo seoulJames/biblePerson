@@ -128,7 +128,7 @@ function goNext(qIdx, type) {
     var backBox = document.querySelector('.backBox');
     var backBtn = document.createElement('button');
     backBtn.className = 'back-btn';
-    backBtn.textContent = '뒤로가기';
+    backBtn.textContent = '<';
     backBtn.onclick = function () {
         var backIdx = --qIdx;
         var a = document.querySelector('.answerBox');

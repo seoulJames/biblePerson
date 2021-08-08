@@ -252,17 +252,21 @@ p {
 
 .backBox {
     position: absolute;
-    top: 10%;
+    top: 1%;
+    left: 3%;
     z-index: 99;
 }
 
 .back-btn {
     position: absolute;
-    top: 10%;
+    top: 1%;
+    left: 3%;
     z-index: 99;
     background-color: #ddc6b6;
     color: #262223;
-    width: max-content;
+    font-weight: bold;
+    width: 40px;
+    height: 40px;
 }
 
 .koong-text {
