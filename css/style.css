@@ -13,6 +13,7 @@ html, body { height: 100% }
 
 .container {
     max-width: 450px;
+    height: 100%;
     padding: 0;
     margin: 0 auto;
     text-align: center;
@@ -20,8 +21,16 @@ html, body { height: 100% }
     position: relative;
 }
 
+#qna {
+    height: 100%;
+}
+
+.contentBox {
+    height: 80%;
+}
+
 .center-box {
-    height: 80vh;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,7 +38,9 @@ html, body { height: 100% }
 }
 
 .qBox {
-    line-height: 50px;
+    position: absolute;
+    bottom: 22%;
+    width: 100%;
 }
 
 .answerBox {

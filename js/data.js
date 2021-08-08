@@ -129,7 +129,7 @@
         ]
     }, 
     {
-        c: '<div class="img-box"><img src="images/9.jpg" alt="9"></div><div class="text-box" style="bottom: 35%">장터에 가니 저마다 대화하는 무리가 보인다.</div>',
+        c: '<div class="img-box"><img src="images/9.JPG" alt="9"></div><div class="text-box" style="bottom: 35%">장터에 가니 저마다 대화하는 무리가 보인다.</div>',
         q: '나는 이 중 어떤 무리에게 가서 말을 걸까?', 
         a: [
             { cssClass: 'none', answer: '조용히 대화하는 소수의 무리', type: [0, 1, 2, 3, 4, 5, 6, 7] },
@@ -346,7 +346,7 @@
     },
     {
         c: '<div class="img-box">'+
-                '<img src="images/30.jpg" alt="24">'+
+                '<img src="images/30.JPG" alt="24">'+
             '</div>'+
             '<div class="text-box" style="top: 0">'+
                 '군병들이 사자를 묶고있던 쇠사슬이 풀었다.<br>'+
