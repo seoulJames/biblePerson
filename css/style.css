@@ -44,7 +44,7 @@ html, body { height: 100% }
 }
 
 .answerBox {
-    height: 20vh;
+    height: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -145,7 +145,7 @@ html, body { height: 100% }
 
 .img-box {
     max-width: 500px;
-    height: 72vh;
+    height: 90%;
     position: relative;
     background-color: #262223;
 }
@@ -159,7 +159,7 @@ html, body { height: 100% }
 
 .img-box-long {
     max-width: 500px;
-    height: 80vh;
+    height: 100%;
     position: relative;
     background-color: #262223;
     display: flex;
@@ -172,7 +172,6 @@ html, body { height: 100% }
     position: absolute;
     left: 0;
 }
-
 
 .balloon-left,
 .balloon-right {
