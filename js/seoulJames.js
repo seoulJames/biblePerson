@@ -40,6 +40,16 @@ function setResult() {
     })
     desc.append(resultUl);
 
+    var resultLinks = document.createElement('div');
+    resultLinks.classList.add('result-links');
+    var link1 = document.createElement('div');
+    var link2 = document.createElement('div');
+    link1.innerText = '성경사전';
+    link2.innerText = '영상마당';
+    resultLinks.append(link1);
+    resultLinks.append(link2);
+    desc.append(resultLinks);
+
     var combi = document.querySelector('.combi');
     infoList[point].combi.forEach(value => {
         var item = document.createElement('div');

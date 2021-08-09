@@ -308,7 +308,8 @@ p {
 .result-title p {
     font-size: 15px;
     color: #676767;
-    margin-bottom: 20px;
+    margin: 20px 10px;
+    word-break: keep-all;
 }
 
 .result-bar {
@@ -350,6 +351,22 @@ p {
     width: 8px;
     height: 8px;
     margin: 0 12px 0 -24px;
+}
+
+.result-links {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 0;
+}
+
+.result-links div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ddc6b6;
+    border-radius: 10px;
+    width: 140px;
+    height: 50px;
 }
 
 .combi {
