@@ -129,7 +129,7 @@
         ]
     }, 
     {
-        c: '<div class="img-box"><img src="images/9.JPG" alt="9"></div><div class="text-box" style="bottom: 35%">장터에 가니 저마다 대화하는 무리가 보인다.</div>',
+        c: '<div class="img-box"><img src="images/9.JPG" alt="9"></div><div class="text-box" style="bottom: 30%">장터에 가니 저마다 대화하는 무리가 보인다.</div>',
         q: '나는 이 중 어떤 무리에게 가서 말을 걸까?', 
         a: [
             { cssClass: 'none', answer: '조용히 대화하는 소수의 무리', type: [0, 1, 2, 3, 4, 5, 6, 7] },
@@ -148,7 +148,7 @@
         c: '<div class="img-box-long">'+
                 '<img src="images/11.png" alt="11">'+
             '</div>'+
-            '<div class="balloon-left" style="top: 5%">'+
+            '<div class="balloon-left" style="top: 10%">'+
                 '자기가 하나님의 아들이라 그러고,<br />'+
                 '자기 피와 살을 먹으면 영생한다던데<br />'+
                 '그게 이단이 아니면 뭐요?'+
@@ -187,7 +187,7 @@
         c: '<div class="img-box">'+
                 '<img src="images/17.jpg" alt="13">'+
             '</div>'+
-            '<div class="text-box" style="top: 5%">'+
+            '<div class="text-box" style="top: 10%">'+
                 '돌아가는 길에 어제 밤에 만났던<br>'+
                 '그리스도인들과 재회했다..'+
             '</div>'+
@@ -205,7 +205,7 @@
         c: '<div class="img-box-long">'+
                 '<img src="images/18.jpg" alt="14">'+
             '</div>'+
-            '<div class="text-box" style="top: 5%">'+
+            '<div class="text-box" style="top: 10%">'+
                 '고민하는 사이,<br>'+
                 '저 멀리서 말 발굽소리가 들려온다.'+
             '</div>'+
@@ -227,7 +227,7 @@
         c: '<div class="img-box">'+
                 '<img src="images/20.jpg" alt="15">'+
             '</div>'+
-            '<div class="text-box" style="top: 5%">'+
+            '<div class="text-box" style="top: 10%">'+
                 '카타콤에 모인 사람들.<br>'+
                 '복음 전하는 방법을 두고 의견이 분분하다.'+
             '</div>',
@@ -348,7 +348,7 @@
         c: '<div class="img-box">'+
                 '<img src="images/30.JPG" alt="24">'+
             '</div>'+
-            '<div class="text-box" style="top: 0">'+
+            '<div class="text-box" style="bottom: 30%">'+
                 '군병들이 사자를 묶고있던 쇠사슬이 풀었다.<br>'+
                 '사자는 기다렸다는 듯이 나를 향해 달려왔다!!'+
             '</div>',
