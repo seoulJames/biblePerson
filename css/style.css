@@ -363,42 +363,47 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #ddc6b6;
+    background: white;
+    border: 1px solid #262223;
     border-radius: 10px;
     width: 140px;
     height: 50px;
 }
 
-.combi {
-    display: flex;
-    justify-content: center;
-}
-
-.combi .item {
-    width: 42%;
-    border: 1px solid #DDC6B6;
-    border-radius: 10px;
-    float: left;
-    padding: 20px 0;
-    margin: 20px 10px;
-}
-
-.combi .item h1 {
-    font-size: 30px;
-    font-weight: bold;
-    padding: 14px 0;
-}
-
 .bible {
     border: 1px solid #DDC6B6;
     border-radius: 10px;
-    margin: 0 15px 15px 15px;
+    margin: 15px;
     padding: 10px;
 }
 
 .bible p {
     font-size: 15px;
     margin: 0;
+}
+
+.bible a {
+    color: black;
+}
+
+.combi {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px 15px 15px;
+}
+
+.combi .item {
+    width: 48%;
+    border: 1px solid #DDC6B6;
+    border-radius: 10px;
+    float: left;
+    padding: 20px 0;
+}
+
+.combi .item h1 {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 14px 0;
 }
 
 .share {
