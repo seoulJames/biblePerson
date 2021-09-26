@@ -279,6 +279,10 @@ p {
     height: 40px;
 }
 
+.first {
+    width: 100px;
+}
+
 .koong-text {
     color: rgba(250,235,239,0.58);
     position: relative;

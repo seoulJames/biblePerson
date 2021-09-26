@@ -151,7 +151,7 @@ function goNext(qIdx, type) {
         return;
     };
     
-    if(qIdx > 1) {
+    if(qIdx >= 1) {
         backBox.append(backBtn);
     } else {
         backBox.innerHTML = '';
