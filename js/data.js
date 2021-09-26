@@ -451,7 +451,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>다윗</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>모세</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a target="_blank" href="https://bible.godpia.com/read/reading.asp?ver=han&vol=luk&chap=1&sec=1&positionId=han_luk_1_1#han_luk_1_1">눅1:1~4,</a> <a target="_blank" href="https://bible.godpia.com/read/reading.asp?ver=han&vol=2ti&chap=4&sec=11&positionId=han_2ti_4_11#han_2ti_4_11">딤후4:11</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a target="_blank" href="https://bible.godpia.com/read/reading.asp?ver=han&vol=luk&chap=1&sec=1&positionId=han_luk_1_1#han_luk_1_1">눅1:1~4,</a> <a target="_blank" href="https://bible.godpia.com/read/reading.asp?ver=han&vol=2ti&chap=4&sec=11&positionId=han_2ti_4_11#han_2ti_4_11">딤후4:11</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>베드로</h1><h2>(Peter)<h2><img class="result-bar right"/><p>소중한 이들을 수호하고 헌신하는 강하고 성실한 방어자형</p>',
@@ -466,7 +466,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>야곱</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>솔로몬</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jhn&chap=21&sec=7&positionId=han_jhn_21_7#han_jhn_21_7">요21:7,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=2&sec=1&positionId=han_act_2_1#han_act_2_1">행2~5장,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=5&sec=40&positionId=han_act_5_40#han_act_5_40">행5:40~42</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jhn&chap=21&sec=7&positionId=han_jhn_21_7#han_jhn_21_7">요21:7,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=2&sec=1&positionId=han_act_2_1#han_act_2_1">행2~5장,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=5&sec=40&positionId=han_act_5_40#han_act_5_40">행5:40~42</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>욥</h1><h2>(Job)<h2><img class="result-bar right"/><p>조용하고 신비로우며 영감이 샘솟는 이상주의자</p>',
@@ -481,7 +481,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>예레미야</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>예레미야</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=job&chap=1&sec=5&positionId=han_job_1_5#han_job_1_5">욥1:5,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=job&chap=1&sec=21&positionId=han_job_1_21#han_job_1_21">욥1:21~22</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=job&chap=1&sec=5&positionId=han_job_1_5#han_job_1_5">욥1:5,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=job&chap=1&sec=21&positionId=han_job_1_21#han_job_1_21">욥1:21~22</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>노아</h1><h2>(Noah)<h2><img class="result-bar right"/><p>현실적인 상상력이 풍부하며 철두철미한 계획을 세우는 전략가형</p>',
@@ -495,7 +495,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>예레미야</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>예레미야</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=8&sec=7&positionId=han_gen_8_7#han_gen_8_7">창8:7~12</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=8&sec=7&positionId=han_gen_8_7#han_gen_8_7">창8:7~12</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>도마</h1><h2>(Thomas)<h2><img class="result-bar right"/><p>대담하고 현실적이며 다양한 지식에 능한 지적탐험가</p>',
@@ -510,7 +510,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>바울</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>솔로몬</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jhn&chap=20&sec=24&positionId=han_jhn_20_24#han_jhn_20_24">요20:24~28</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jhn&chap=20&sec=24&positionId=han_jhn_20_24#han_jhn_20_24">요20:24~28</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>아브라함</h1><h2>(Abraham)<h2><img class="result-bar right"/><p>마음이 넓고 진중하며 감수성이 높은 조용한 예술가형</p>',
@@ -525,7 +525,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>스데반</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=19&sec=16&positionId=han_gen_19_16#han_gen_19_16">창19:16~33</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=19&sec=16&positionId=han_gen_19_16#han_gen_19_16">창19:16~33</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>요셉</h1><h2>(Joseph)<h2><img class="result-bar right"/><p>상냥하고 연민이 많으며 뛰어난 감수성을 가진 섬세한 낭만가</p>',
@@ -540,7 +540,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>요한</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=50&sec=20&positionId=han_gen_50_20#han_gen_50_20">창50:20~21</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=50&sec=20&positionId=han_gen_50_20#han_gen_50_20">창50:20~21</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>도마</h1><h2>(Thomas)<h2><img class="result-bar right"/><p>대담하고 현실적이며 다양한 지식에 능한 지적탐험가</p>',
@@ -555,7 +555,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>바울</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>솔로몬</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jhn&chap=20&sec=24&positionId=han_jhn_20_24#han_jhn_20_24">요20:24~28</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jhn&chap=20&sec=24&positionId=han_jhn_20_24#han_jhn_20_24">요20:24~28</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>야곱</h1><h2>(Jacob)<h2><img class="result-bar right"/><p>명석한 두뇌, 넘치는 에너지, 뛰어난 직관력의 천상 엘리트</p>',
@@ -570,7 +570,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>베드로</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=25&sec=29&positionId=han_gen_25_29#han_gen_25_29">창25:29~34,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=27&sec=1&positionId=han_gen_27_1#han_gen_27_1">창27:1~40,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=32&sec=24&positionId=han_gen_32_24#han_gen_32_24">창32:24~30</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=25&sec=29&positionId=han_gen_25_29#han_gen_25_29">창25:29~34,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=27&sec=1&positionId=han_gen_27_1#han_gen_27_1">창27:1~40,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=32&sec=24&positionId=han_gen_32_24#han_gen_32_24">창32:24~30</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>다윗</h1><h2>(David)<h2><img class="result-bar right"/><p>열정과 에너지가 넘치고, 사람 좋은 즉흥적 박애주의자</p>',
@@ -585,7 +585,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>베드로</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>요한</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1sa&chap=17&sec=32&positionId=han_1sa_17_32#han_1sa_17_32">삼상17:32~49</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1sa&chap=17&sec=32&positionId=han_1sa_17_32#han_1sa_17_32">삼상17:32~49</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>예레미야</h1><h2>(Jeremiah)<h2><img class="result-bar right"/><p>창의적, 낙천적 성격으로 사람들과 자유로이 어울리는 열정가형</p>',
@@ -600,7 +600,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>욥</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>욥</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=lam&chap=3&sec=19&positionId=han_lam_3_19#han_lam_3_19">애3:19~39,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=lam&chap=3&sec=38&positionId=han_lam_3_38#han_lam_3_38">애3:38~49,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jer&chap=20&sec=8&positionId=han_jer_20_8#han_jer_20_8">렘20:8~9</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=lam&chap=3&sec=19&positionId=han_lam_3_19#han_lam_3_19">애3:19~39,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=lam&chap=3&sec=38&positionId=han_lam_3_38#han_lam_3_38">애3:38~49,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jer&chap=20&sec=8&positionId=han_jer_20_8#han_jer_20_8">렘20:8~9</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>솔로몬</h1><h2>(Solomon)<h2><img class="result-bar right"/><p>지적인 도전을 두려워 않는 똑똑한 호기심형</p>',
@@ -615,7 +615,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>노아</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>도마</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=4&sec=29&positionId=han_1ki_4_29#han_1ki_4_29">왕상4:29~30,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=10&sec=1&positionId=han_1ki_10_1#han_1ki_10_1">왕상10:1~13,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=3&sec=16&positionId=han_1ki_3_16#han_1ki_3_16">왕상3:16~28</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=4&sec=29&positionId=han_1ki_4_29#han_1ki_4_29">왕상4:29~30,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=10&sec=1&positionId=han_1ki_10_1#han_1ki_10_1">왕상10:1~13,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=3&sec=16&positionId=han_1ki_3_16#han_1ki_3_16">왕상3:16~28</a></p>'
     },
     {
       name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>바울</h1><h2>(Paul)<h2><img class="result-bar right"/><p>살과 조직을 관리하는데<br/>뛰어난 실력을 가진 사업가형</p>',
@@ -630,7 +630,7 @@ const infoList = [
           { combiName: '<h2>최고의 협력자</h2><h1>마가</h1>' },
           { combiName: '<h2>영혼의 단짝</h2><h1>누가</h1>' }
       ],
-      bible: '<p>참고성구</p><p><a href="">딤전3:1~13,</a> <a href="">딤전5장,</a> <a href="">살전4:1~12,</a> <a href="">딛1:5~9</a></p>'
+      bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="">딤전3:1~13,</a> <a href="">딤전5장,</a> <a href="">살전4:1~12,</a> <a href="">딛1:5~9</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>스데반</h1><h2>(Stephen)<h2><img class="result-bar right"/><p>사교적이며, 타인을 향한 세심한 관심과 배려를 소유한 도우미</p>',
@@ -645,7 +645,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>아브라함</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=7&sec=54&positionId=han_act_7_54#han_act_7_54">행7:54~60</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=7&sec=54&positionId=han_act_7_54#han_act_7_54">행7:54~60</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>요한</h1><h2>(John)<h2><img class="result-bar right"/><p>넘치는 자신감과 긍정적 영향력을 펼치는 착한 리더형</p>',
@@ -660,7 +660,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>요셉</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>요셉</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=4&sec=13&positionId=han_act_4_13#han_act_4_13">행4:13~22</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=4&sec=13&positionId=han_act_4_13#han_act_4_13">행4:13~22</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>모세</h1><h2>(Moses)<h2><img class="result-bar right"/><p>대담, 강한 의지, 현실적 문제해결과 방안창출에 탁월한 리더형</p>',
@@ -674,6 +674,6 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>도마</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
-        bible: '<p>참고성구</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=exo&chap=32&sec=11&positionId=han_exo_32_11#han_exo_32_11">출32:11~12</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=exo&chap=32&sec=11&positionId=han_exo_32_11#han_exo_32_11">출32:11~12</a></p>'
     }
 ]

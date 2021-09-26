@@ -406,6 +406,18 @@ p {
     padding: 14px 0;
 }
 
+.btn-wrap {
+    display: flex;
+    width: 300px;
+    margin: 0 auto 30px auto;
+}
+
+.move-btn {
+    color: #262223;
+    border: 1px solid #DDC6B6;
+    background: none;
+}
+
 .share {
     margin-bottom: 10px;
 }
