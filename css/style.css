@@ -58,6 +58,16 @@ html, body { height: 100% }
     line-height: 45px;
 }
 
+.word-square-icon {
+    width: 100px;
+    position: absolute;
+    top: 2%;
+    left: 5%;
+    padding: 5px;
+    border: 1px solid #04b58b;
+    border-radius: 35px;
+}
+
 .flower-icon {
     margin-bottom: 15px;
 }
@@ -277,10 +287,6 @@ p {
     font-weight: bold;
     width: 40px;
     height: 40px;
-}
-
-.first {
-    width: 100px;
 }
 
 .koong-text {
