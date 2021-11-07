@@ -603,20 +603,35 @@ const infoList = [
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=lam&chap=3&sec=19&positionId=han_lam_3_19#han_lam_3_19">애3:19~39,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=lam&chap=3&sec=38&positionId=han_lam_3_38#han_lam_3_38">애3:38~49,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jer&chap=20&sec=8&positionId=han_jer_20_8#han_jer_20_8">렘20:8~9</a></p>'
     },
     {
-        name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>솔로몬</h1><h2>(Solomon)<h2><img class="result-bar right"/><p>지적인 도전을 두려워 않는 똑똑한 호기심형</p>',
+        name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>한나</h1><h2>(Hanna)<h2><img class="result-bar right"/><p>어떤 저항에도 목표를 추구하는 주관자형</p>',
         desc: [
-            { text: '당신은 지혜의 왕 솔로몬을 닮았습니다.'},
-            { text: '솔로몬은 그 지혜가 먼 이국에까지 닿았다고 전해지는 이스라엘의 왕입니다.' },
-            { text: '선과 악을 분별하는 지혜를 구하고자 하나님께 일천 번제를 드렸다는 일화는 그가 진정한 지혜의 사모자였음을 드러냅니다.' },
-            { text: '당신은 솔로몬처럼 진정한 지식과 지혜를 사모합니다. 당신은 그릇된 사상과 편견에 치우치지 않고 참과 거짓을 분별코자 합니다.'},
-            { text: '성도들은 당신을 지혜의 면류관으로 여길 것이며 하나님 나라의 미래와 소망을 의탁하게 될 것입니다.'}
+            { text: '당신은 기도의 사람 한나를 닮았습니다.'},
+            { text: '한나는 자식을 낳지 못한 서러움 때문에 통곡하며 기도 했습니다. 한나는 하나님의 은혜를 입어 결국 사무엘을 낳게 됩니다.' },
+            { text: '그리고 하나님께 서원한대로 사무엘을 나실인으로 바치게 됩니다. 자식을 떠나보내는 것이 쉽지 않은 일이었을 테지만, 한나는 하나님과의 약속을 철두철미하게 지켰습니다.' },
+            { text: '당신도 한나처럼 간구하는 심령을 지니고 있습니다. 어떤 오해와 핍박 속에서도 중심을 잃지 않는 당신의 모습은 성도들에게 깊은 감동을 줍니다.'},
+            
         ],
         combi: [
             { combiName: '<h2>최고의 협력자</h2><h1>노아</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>도마</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=4&sec=29&positionId=han_1ki_4_29#han_1ki_4_29">왕상4:29~30,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=10&sec=1&positionId=han_1ki_10_1#han_1ki_10_1">왕상10:1~13,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=3&sec=16&positionId=han_1ki_3_16#han_1ki_3_16">왕상3:16~28</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1sa&chap=1&sec=6&positionId=han_1sa_1_6#han_1sa_1_6">삼상1:6~28</a></p>'
     },
+    // {
+    //     name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>솔로몬</h1><h2>(Solomon)<h2><img class="result-bar right"/><p>지적인 도전을 두려워 않는 똑똑한 호기심형</p>',
+    //     desc: [
+    //         { text: '당신은 지혜의 왕 솔로몬을 닮았습니다.'},
+    //         { text: '솔로몬은 그 지혜가 먼 이국에까지 닿았다고 전해지는 이스라엘의 왕입니다.' },
+    //         { text: '선과 악을 분별하는 지혜를 구하고자 하나님께 일천 번제를 드렸다는 일화는 그가 진정한 지혜의 사모자였음을 드러냅니다.' },
+    //         { text: '당신은 솔로몬처럼 진정한 지식과 지혜를 사모합니다. 당신은 그릇된 사상과 편견에 치우치지 않고 참과 거짓을 분별코자 합니다.'},
+    //         { text: '성도들은 당신을 지혜의 면류관으로 여길 것이며 하나님 나라의 미래와 소망을 의탁하게 될 것입니다.'}
+    //     ],
+    //     combi: [
+    //         { combiName: '<h2>최고의 협력자</h2><h1>노아</h1>' },
+    //         { combiName: '<h2>영혼의 단짝</h2><h1>도마</h1>' }
+    //     ],
+    //     bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=4&sec=29&positionId=han_1ki_4_29#han_1ki_4_29">왕상4:29~30,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=10&sec=1&positionId=han_1ki_10_1#han_1ki_10_1">왕상10:1~13,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=3&sec=16&positionId=han_1ki_3_16#han_1ki_3_16">왕상3:16~28</a></p>'
+    // },
     {
       name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>바울</h1><h2>(Paul)<h2><img class="result-bar right"/><p>살과 조직을 관리하는데<br/>뛰어난 실력을 가진 사업가형</p>',
       desc: [
