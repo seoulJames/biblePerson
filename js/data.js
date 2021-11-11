@@ -456,7 +456,7 @@ const infoList = [
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>베드로</h1><h2>(Peter)<h2><img class="result-bar right"/><p>소중한 이들을 수호하고 헌신하는 강하고 성실한 방어자형</p>',
         desc: [
-            { text: '당신은 강직한 성품과 뛰어난 리더쉽을 지녔던 바울을 닮았습니다.'},
+            { text: '당신은 충직한 수호자 베드로를 닮았습니다.'},
             { text: '하나님과 그의 성도들을 위해 자기 몸을 아끼지 않았던 베드로는 이후 그리스도의 반석으로 우리 신앙의 든든한 기둥이 되어주었습니다.' },
             { text: '당신은 베드로처럼 진리를 수호하고 성도들에게 헌신하기를 원합니다.' },
             { text: '당신은 믿음을 주기로 마음먹은 상대에게 자신의 모든 것을 내어줄 수 있는 진실됨을 지니고 있습니다.'},
