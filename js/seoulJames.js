@@ -46,6 +46,8 @@ function setResult() {
     var link2 = document.createElement('div');
     link1.innerText = '성경사전';
     link2.innerText = '영상마당';
+    if (infoList[point].link1) link1.onclick = () => window.location.href = infoList[point].link1;
+    if (infoList[point].link2) link1.onclick = () => window.location.href = infoList[point].link2;
     resultLinks.append(link1);
     resultLinks.append(link2);
     desc.append(resultLinks);
@@ -192,7 +194,12 @@ function shareUrl() {
 
 // 말씀광장 연결
 function goToWordSquare() {
-    window.open('https://wordsquare.shincheonji.kr/', '_blank');
+    window.location.href = 'https://www.wordsquare.org/';
+}
+
+// 말씀광장 유형테스트 연결
+function goToOtherTests() {
+    window.location.href = 'https://www.wordsquare.org/square-crossroads/assessments';
 }
 
 // 테스트 첫 페이지 이동
