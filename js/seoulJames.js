@@ -12,8 +12,9 @@ function calResult() {
     return result;
 }
 
-function setResult() {
+function setResult(shared = false) {
     let point = calResult();
+    if (shared) point = parseInt(getParam('result'));     // 공유하기로 들어온 경우
     var resultName = document.querySelector('.resultname');
     var resultTitle = document.createElement('div');
     resultTitle.classList.add('result-title')
@@ -47,7 +48,7 @@ function setResult() {
     link1.innerText = '성경사전';
     link2.innerText = '영상마당';
     if (infoList[point].link1) link1.onclick = () => window.location.href = infoList[point].link1;
-    if (infoList[point].link2) link1.onclick = () => window.location.href = infoList[point].link2;
+    if (infoList[point].link2) link2.onclick = () => window.location.href = infoList[point].link2;
     resultLinks.append(link1);
     resultLinks.append(link2);
     desc.append(resultLinks);
@@ -62,6 +63,11 @@ function setResult() {
 
     var bible = document.querySelector('.bible');
     bible.innerHTML = infoList[point].bible;
+
+    // 결과페이지 url 파라미터 추가
+    if (!shared) {
+        history.pushState('', '', window.location.href + '?result=' + point);
+    }
 }
 
 function goResult() {
@@ -232,4 +238,25 @@ function shareNaverBlog() {
     var sendUrl = "";
     window.open("http://blog.naver.com/openapi/share?url=" + sendUrl, 'naversharedialog',
     'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');
+}
+
+function goToSharedResult() {
+    let resultParam = getParam('result');
+    if (resultParam) {
+        main.style.display = "none";
+        result.style.display = "block";
+        setResult(true);
+    }
+}
+
+// url 에서 parameter 추출
+function getParam(sname) {
+    var params = location.search.substr(location.search.indexOf("?") + 1);
+    var sval = "";
+    params = params.split("&");
+    for (var i = 0; i < params.length; i++) {
+        temp = params[i].split("=");
+        if ([temp[0]] == sname) { sval = temp[1]; }
+    }
+    return sval;
 }
