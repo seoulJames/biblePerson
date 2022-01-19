@@ -451,7 +451,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>다윗</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>모세</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=luk&chap=1&sec=1&positionId=han_luk_1_1#han_luk_1_1">눅1:1~4,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=2ti&chap=4&sec=11&positionId=han_2ti_4_11#han_2ti_4_11">딤후4:11</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/눅1:1~4">눅1:1~4,</a> <a href="https://www.wordsquare.org/bible-forest/bible/딤후4:11">딤후4:11</a></p>',
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>베드로</h1><h2>(Peter)<h2><img class="result-bar right"/><p>소중한 이들을 수호하고 헌신하는 강하고 성실한 방어자형</p>',
@@ -466,7 +466,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>야곱</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>솔로몬</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jhn&chap=21&sec=7&positionId=han_jhn_21_7#han_jhn_21_7">요21:7,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=2&sec=1&positionId=han_act_2_1#han_act_2_1">행2~5장,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=5&sec=40&positionId=han_act_5_40#han_act_5_40">행5:40~42</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/요21:7">요21:7,</a> <a href="https://www.wordsquare.org/bible-forest/bible/행2">행2~5장,</a> <a href="https://www.wordsquare.org/bible-forest/bible/행5">행5:40~42</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%B2%A0%EB%93%9C%EB%A1%9C',
     },
     {
@@ -482,7 +482,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>예레미야</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>예레미야</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=job&chap=1&sec=5&positionId=han_job_1_5#han_job_1_5">욥1:5,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=job&chap=1&sec=21&positionId=han_job_1_21#han_job_1_21">욥1:21~22</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/욥1:5">욥1:5,</a> <a href="https://https://www.wordsquare.org/bible-forest/bible/욥1:21~22">욥1:21~22</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%9A%A5(%EC%9A%B0%EC%8A%A4%20%EB%95%85)'
     },
     {
@@ -497,7 +497,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>예레미야</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>예레미야</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=8&sec=7&positionId=han_gen_8_7#han_gen_8_7">창8:7~12</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/창8:7~12">창8:7~12</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%85%B8%EC%95%84',
         link2: 'https://www.wordsquare.org/video-yard/videos/6157109dfbd04600149f71c2',
     },
@@ -514,7 +514,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>바울</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>솔로몬</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jhn&chap=20&sec=24&positionId=han_jhn_20_24#han_jhn_20_24">요20:24~28</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/요20:24~28">요20:24~28</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/12%EC%A0%9C%EC%9E%90'
     },
     {
@@ -530,7 +530,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>스데반</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=19&sec=16&positionId=han_gen_19_16#han_gen_19_16">창19:16~33</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/창19:16~33">창19:16~33</a></p>',
         link2: 'https://www.wordsquare.org/video-yard/videos/61570b8dfbd04600149f71c0'
     },
     {
@@ -546,7 +546,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>요한</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=50&sec=20&positionId=han_gen_50_20#han_gen_50_20">창50:20~21</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/창50:20~21">창50:20~21</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%9A%94%EC%85%89(%EC%95%BC%EA%B3%B1%EC%9D%98%20%EC%95%84%EB%93%A4)',
         link2: 'https://www.wordsquare.org/video-yard/videos/616f93acbda60e00146058ca',
     },
@@ -563,7 +563,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>바울</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>솔로몬</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jhn&chap=20&sec=24&positionId=han_jhn_20_24#han_jhn_20_24">요20:24~28</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/요20:24~28">요20:24~28</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/12%EC%A0%9C%EC%9E%90'
     },
     {
@@ -579,7 +579,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>베드로</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=25&sec=29&positionId=han_gen_25_29#han_gen_25_29">창25:29~34,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=27&sec=1&positionId=han_gen_27_1#han_gen_27_1">창27:1~40,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=gen&chap=32&sec=24&positionId=han_gen_32_24#han_gen_32_24">창32:24~30</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/창25:29~34">창25:29~34,</a> <a href="https://www.wordsquare.org/bible-forest/bible/창27:1~40">창27:1~40,</a> <a href="https://www.wordsquare.org/bible-forest/bible/창32:24~30">창32:24~30</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%95%BC%EA%B3%B1',
         link2: 'https://www.wordsquare.org/video-yard/videos/614fd54a5f803400131d4a54',
     },
@@ -596,7 +596,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>베드로</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>요한</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1sa&chap=17&sec=32&positionId=han_1sa_17_32#han_1sa_17_32">삼상17:32~49</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/삼상17:32~49">삼상17:32~49</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%8B%A4%EC%9C%97'
     },
     {
@@ -612,7 +612,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>욥</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>욥</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=lam&chap=3&sec=19&positionId=han_lam_3_19#han_lam_3_19">애3:19~39,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=lam&chap=3&sec=38&positionId=han_lam_3_38#han_lam_3_38">애3:38~49,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=jer&chap=20&sec=8&positionId=han_jer_20_8#han_jer_20_8">렘20:8~9</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/애3:19~39">애3:19~39,</a> <a href="https://www.wordsquare.org/bible-forest/bible/애3:38~49">애3:38~49,</a> <a href="https://www.wordsquare.org/bible-forest/bible/렘20:8~9">렘20:8~9</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%98%88%EB%A0%88%EB%AF%B8%EC%95%BC'
     },
     {
@@ -628,7 +628,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>노아</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>도마</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1sa&chap=1&sec=6&positionId=han_1sa_1_6#han_1sa_1_6">삼상1:6~28</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/삼상1:6~28">삼상1:6~28</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%ED%95%9C%EB%82%98',
     },
     // {
@@ -659,7 +659,7 @@ const infoList = [
           { combiName: '<h2>최고의 협력자</h2><h1>마가</h1>' },
           { combiName: '<h2>영혼의 단짝</h2><h1>누가</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="">딤전3:1~13,</a> <a href="">딤전5장,</a> <a href="">살전4:1~12,</a> <a href="">딛1:5~9</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/딤전3:1~13">딤전3:1~13,</a> <a href="https://www.wordsquare.org/bible-forest/bible/딤전5">딤전5장,</a> <a href="https://www.wordsquare.org/bible-forest/bible/살전4:1~12">살전4:1~12,</a> <a href="https://www.wordsquare.org/bible-forest/bible/딛1:5~9">딛1:5~9</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%B0%94%EC%9A%B8(%EC%82%AC%EB%8F%84)'
     },
     {
@@ -675,7 +675,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>아브라함</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=7&sec=54&positionId=han_act_7_54#han_act_7_54">행7:54~60</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/행7:54~60">행7:54~60</a></p>'
     },
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>요한</h1><h2>(John)<h2><img class="result-bar right"/><p>넘치는 자신감과 긍정적 영향력을 펼치는 착한 리더형</p>',
@@ -690,7 +690,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>요셉</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>요셉</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=act&chap=4&sec=13&positionId=han_act_4_13#han_act_4_13">행4:13~22</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/행4:13~22">행4:13~22</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%9A%94%ED%95%9C(%EC%82%AC%EB%8F%84%20%EC%9A%94%ED%95%9C)'
     },
     {
@@ -705,7 +705,7 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>도마</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=exo&chap=32&sec=11&positionId=han_exo_32_11#han_exo_32_11">출32:11~12</a></p>',
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/출32:11~12">출32:11~12</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%AA%A8%EC%84%B8'
     }
 ]

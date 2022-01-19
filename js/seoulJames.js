@@ -212,7 +212,9 @@ function goToOtherTests() {
 function goToHome() {
     // 결과 reset
     select = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
-    window.location.reload();
+
+    // window.location.reload();
+    window.location.href = window.location.pathname;
 }
 
 // 트위터 공유
