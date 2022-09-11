@@ -1,7 +1,7 @@
 const main = document.querySelector("#main");
 const qna = document.querySelector("#qna");
 const result = document.querySelector("#result");
-const endPoint = 28;    // 페이지 수
+const endPoint = 1;    // 페이지 수
 // 결과 계산
 let select = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
 let backTarget = [];
@@ -45,12 +45,16 @@ function setResult(shared = false) {
     resultLinks.classList.add('result-links');
     var link1 = document.createElement('div');
     var link2 = document.createElement('div');
+    var link3 = document.createElement('div');
     link1.innerText = '성경사전';
     link2.innerText = '영상마당';
+    link3.innerText = '캘리그라피'
     if (infoList[point].link1) link1.onclick = () => window.location.href = infoList[point].link1;
     if (infoList[point].link2) link2.onclick = () => window.location.href = infoList[point].link2;
+    if (infoList[point].link3) link3.onclick = () => window.location.href = infoList[point].link3;
     resultLinks.append(link1);
-    resultLinks.append(link2);
+    if (infoList[point].link2) resultLinks.append(link2);
+    if (infoList[point].link3) resultLinks.append(link3);
     desc.append(resultLinks);
 
     var combi = document.querySelector('.combi');

@@ -438,6 +438,9 @@
  * infoList: 결과 정보
  */
 const infoList = [
+    /**
+     * 누가
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>누가</h1><h2>(Luke)<h2><img class="result-bar right"/><p>사실에 근거하여 사고하고 신용과 신뢰를 구축하는 현실주의자</p>',
         desc: [
@@ -452,7 +455,11 @@ const infoList = [
             { combiName: '<h2>영혼의 단짝</h2><h1>모세</h1>' }
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/눅1:1~4">눅1:1~4,</a> <a href="https://www.wordsquare.org/bible-forest/bible/딤후4:11">딤후4:11</a></p>',
+        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%88%84%EA%B0%80',
     },
+    /**
+     * 베드로
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>베드로</h1><h2>(Peter)<h2><img class="result-bar right"/><p>소중한 이들을 수호하고 헌신하는 강하고 성실한 방어자형</p>',
         desc: [
@@ -468,7 +475,11 @@ const infoList = [
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/요21:7">요21:7,</a> <a href="https://www.wordsquare.org/bible-forest/bible/행2">행2~5장,</a> <a href="https://www.wordsquare.org/bible-forest/bible/행5">행5:40~42</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%B2%A0%EB%93%9C%EB%A1%9C',
+        link3: 'https://wordsquare.org/art-garden/calligraphies/621decec8f55f400142198fd'
     },
+    /**
+     * 욥
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>욥</h1><h2>(Job)<h2><img class="result-bar right"/><p>조용하고 신비로우며 영감이 샘솟는 이상주의자</p>',
         desc: [
@@ -482,9 +493,13 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>예레미야</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>예레미야</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/욥1:5">욥1:5,</a> <a href="https://https://www.wordsquare.org/bible-forest/bible/욥1:21~22">욥1:21~22</a></p>',
-        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%9A%A5(%EC%9A%B0%EC%8A%A4%20%EB%95%85)'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/욥1:5">욥1:5,</a> <a href="https://www.wordsquare.org/bible-forest/bible/욥1:21~22">욥1:21~22</a></p>',
+        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%9A%A5(%EC%9A%B0%EC%8A%A4%20%EB%95%85)',
+        link3: 'https://wordsquare.org/art-garden/calligraphies/61683e7571a8a100136887bb'
     },
+    /**
+     * 노아
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>노아</h1><h2>(Noah)<h2><img class="result-bar right"/><p>현실적인 상상력이 풍부하며 철두철미한 계획을 세우는 전략가형</p>',
         desc: [
@@ -501,6 +516,9 @@ const infoList = [
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%85%B8%EC%95%84',
         link2: 'https://www.wordsquare.org/video-yard/videos/6157109dfbd04600149f71c2',
     },
+    /**
+     * 도마
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>도마</h1><h2>(Thomas)<h2><img class="result-bar right"/><p>대담하고 현실적이며 다양한 지식에 능한 지적탐험가</p>',
         desc: [
@@ -515,8 +533,11 @@ const infoList = [
             { combiName: '<h2>영혼의 단짝</h2><h1>솔로몬</h1>' }
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/요20:24~28">요20:24~28</a></p>',
-        link1: 'https://www.wordsquare.org/bible-forest/dictionary/12%EC%A0%9C%EC%9E%90'
+        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%8F%84%EB%A7%88'
     },
+    /**
+     * 아브라함
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>아브라함</h1><h2>(Abraham)<h2><img class="result-bar right"/><p>마음이 넓고 진중하며 감수성이 높은 조용한 예술가형</p>',
         desc: [
@@ -531,8 +552,12 @@ const infoList = [
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/창19:16~33">창19:16~33</a></p>',
+        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%95%84%EB%B8%8C%EB%9D%BC%ED%95%A8',
         link2: 'https://www.wordsquare.org/video-yard/videos/61570b8dfbd04600149f71c0'
     },
+    /**
+     * 요셉
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>요셉</h1><h2>(Joseph)<h2><img class="result-bar right"/><p>상냥하고 연민이 많으며 뛰어난 감수성을 가진 섬세한 낭만가</p>',
         desc: [
@@ -548,8 +573,11 @@ const infoList = [
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/창50:20~21">창50:20~21</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%9A%94%EC%85%89(%EC%95%BC%EA%B3%B1%EC%9D%98%20%EC%95%84%EB%93%A4)',
-        link2: 'https://www.wordsquare.org/video-yard/videos/616f93acbda60e00146058ca',
+        link2: 'https://www.wordsquare.org/video-yard/videos/61c5afe621976e001389d8e5',
     },
+    /**
+     * 도마
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>도마</h1><h2>(Thomas)<h2><img class="result-bar right"/><p>대담하고 현실적이며 다양한 지식에 능한 지적탐험가</p>',
         desc: [
@@ -564,8 +592,11 @@ const infoList = [
             { combiName: '<h2>영혼의 단짝</h2><h1>솔로몬</h1>' }
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/요20:24~28">요20:24~28</a></p>',
-        link1: 'https://www.wordsquare.org/bible-forest/dictionary/12%EC%A0%9C%EC%9E%90'
+        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%8F%84%EB%A7%88'
     },
+    /**
+     * 야곱
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>야곱</h1><h2>(Jacob)<h2><img class="result-bar right"/><p>명석한 두뇌, 넘치는 에너지, 뛰어난 직관력의 천상 엘리트</p>',
         desc: [
@@ -581,8 +612,11 @@ const infoList = [
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/창25:29~34">창25:29~34,</a> <a href="https://www.wordsquare.org/bible-forest/bible/창27:1~40">창27:1~40,</a> <a href="https://www.wordsquare.org/bible-forest/bible/창32:24~30">창32:24~30</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%95%BC%EA%B3%B1',
-        link2: 'https://www.wordsquare.org/video-yard/videos/614fd54a5f803400131d4a54',
+        link2: 'https://www.wordsquare.org/video-yard/videos/61c5af9421976e001389d8e3',
     },
+    /**
+     * 다윗
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>다윗</h1><h2>(David)<h2><img class="result-bar right"/><p>열정과 에너지가 넘치고, 사람 좋은 즉흥적 박애주의자</p>',
         desc: [
@@ -599,6 +633,9 @@ const infoList = [
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/삼상17:32~49">삼상17:32~49</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%8B%A4%EC%9C%97'
     },
+    /**
+     * 예레미야
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>예레미야</h1><h2>(Jeremiah)<h2><img class="result-bar right"/><p>창의적, 낙천적 성격으로 사람들과 자유로이 어울리는 열정가형</p>',
         desc: [
@@ -613,8 +650,12 @@ const infoList = [
             { combiName: '<h2>영혼의 단짝</h2><h1>욥</h1>' }
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/애3:19~39">애3:19~39,</a> <a href="https://www.wordsquare.org/bible-forest/bible/애3:38~49">애3:38~49,</a> <a href="https://www.wordsquare.org/bible-forest/bible/렘20:8~9">렘20:8~9</a></p>',
-        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%98%88%EB%A0%88%EB%AF%B8%EC%95%BC'
+        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%98%88%EB%A0%88%EB%AF%B8%EC%95%BC',
+        link2: 'https://www.wordsquare.org/video-yard/videos/6168234b71a8a10013688798'
     },
+    /**
+     * 한나
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>한나</h1><h2>(Hanna)<h2><img class="result-bar right"/><p>어떤 저항에도 목표를 추구하는 주관자형</p>',
         desc: [
@@ -630,6 +671,7 @@ const infoList = [
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/삼상1:6~28">삼상1:6~28</a></p>',
         link1: 'https://www.wordsquare.org/bible-forest/dictionary/%ED%95%9C%EB%82%98',
+        link2: 'https://www.wordsquare.org/video-yard/videos/630e1c27f7b0360013928fb1'
     },
     // {
     //     name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>솔로몬</h1><h2>(Solomon)<h2><img class="result-bar right"/><p>지적인 도전을 두려워 않는 똑똑한 호기심형</p>',
@@ -646,6 +688,9 @@ const infoList = [
     //     ],
     //     bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=4&sec=29&positionId=han_1ki_4_29#han_1ki_4_29">왕상4:29~30,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=10&sec=1&positionId=han_1ki_10_1#han_1ki_10_1">왕상10:1~13,</a> <a href="https://bible.godpia.com/read/reading.asp?ver=han&vol=1ki&chap=3&sec=16&positionId=han_1ki_3_16#han_1ki_3_16">왕상3:16~28</a></p>'
     // },
+    /**
+     * 바울
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>바울</h1><h2>(Paul)<h2><img class="result-bar right"/><p>살과 조직을 관리하는데<br/>뛰어난 실력을 가진 사업가형</p>',
         desc: [
@@ -660,8 +705,12 @@ const infoList = [
           { combiName: '<h2>영혼의 단짝</h2><h1>누가</h1>' }
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/딤전3:1~13">딤전3:1~13,</a> <a href="https://www.wordsquare.org/bible-forest/bible/딤전5">딤전5장,</a> <a href="https://www.wordsquare.org/bible-forest/bible/살전4:1~12">살전4:1~12,</a> <a href="https://www.wordsquare.org/bible-forest/bible/딛1:5~9">딛1:5~9</a></p>',
-        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%B0%94%EC%9A%B8(%EC%82%AC%EB%8F%84)'
+        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%B0%94%EC%9A%B8(%EC%82%AC%EB%8F%84)',
+        link2: 'https://www.wordsquare.org/video-yard/videos/6203bc5e21976e001389d9c2'
     },
+    /**
+     * 스데반
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>스데반</h1><h2>(Stephen)<h2><img class="result-bar right"/><p>사교적이며, 타인을 향한 세심한 관심과 배려를 소유한 도우미</p>',
         desc: [
@@ -675,8 +724,12 @@ const infoList = [
             { combiName: '<h2>최고의 협력자</h2><h1>아브라함</h1>' },
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
-        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/행7:54~60">행7:54~60</a></p>'
+        bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/행7:54~60">행7:54~60</a></p>',
+        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%8A%A4%EB%8D%B0%EB%B0%98',
     },
+    /**
+     * 요한
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>요한</h1><h2>(John)<h2><img class="result-bar right"/><p>넘치는 자신감과 긍정적 영향력을 펼치는 착한 리더형</p>',
         desc: [
@@ -691,8 +744,12 @@ const infoList = [
             { combiName: '<h2>영혼의 단짝</h2><h1>요셉</h1>' }
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/행4:13~22">행4:13~22</a></p>',
-        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%9A%94%ED%95%9C(%EC%82%AC%EB%8F%84%20%EC%9A%94%ED%95%9C)'
+        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EC%9A%94%ED%95%9C(%EC%82%AC%EB%8F%84%20%EC%9A%94%ED%95%9C)',
+        link3: 'https://wordsquare.org/art-garden/calligraphies/62d15f7f8f55f40014219f34'
     },
+    /**
+     * 모세
+     */
     {
         name: '<img class="result-icon" src="images/flower-icon.png"/><img class="result-bar left"/><h1>모세</h1><h2>(Moses)<h2><img class="result-bar right"/><p>대담, 강한 의지, 현실적 문제해결과 방안창출에 탁월한 리더형</p>',
         desc: [
@@ -706,6 +763,7 @@ const infoList = [
             { combiName: '<h2>영혼의 단짝</h2><h1>스데반</h1>' }
         ],
         bible: '<p>참고성구 (클릭하여 읽기)</p><p><a href="https://www.wordsquare.org/bible-forest/bible/출32:11~12">출32:11~12</a></p>',
-        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%AA%A8%EC%84%B8'
+        link1: 'https://www.wordsquare.org/bible-forest/dictionary/%EB%AA%A8%EC%84%B8',
+        link2: 'https://www.wordsquare.org/video-yard/videos/62b05dbf8f55f40014219ce9'
     }
 ]
